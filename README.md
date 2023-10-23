@@ -7,8 +7,8 @@
 ## 目录
 
 - 舌头做错了什么
-  - [从英语说起](contents/start_from_eng.md)
-  - 辅音？元音？
+  - [从英语说起](contents/star_from_eng.md)
+  - [辅音？元音？](contents/consonants_and_vowels.md)
   - 音标远不止 48 个
 
 - 话在当下：普通话
