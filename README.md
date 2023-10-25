@@ -9,7 +9,7 @@
 - 舌头做错了什么
   - [从英语说起](contents/starting_from_english.md)
   - [辅音？元音？](contents/consonants_and_vowels.md)
-  - 音标远不止 48 个
+  - [音标远不止 48 个](contents/ipa.md)
 
 - 话在当下：普通话
 
