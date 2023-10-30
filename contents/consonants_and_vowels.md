@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="illusts/articulatory_organs.jpg" alt="articulatory_organs">
+  <br><em>调音部位图</em>
 </p>
 
 - 说实话，上面这张发音部位图，跟肌肉图、内脏图并列为笔者小时候最不敢看的三张图。但这张图很有用，我们能通过这张图来摸清一个音的发音部位到底在哪里，而不用掰开自己的嘴一边流口水一边照镜子来摸索。如果是严格的“发音部位图”，那么应该还要包括声带和肺部，因为肺部为发音提供动力，声带为发音提供音源。我们通常只关注那些负责调整音色的调音部位——说白了就是“嘴”，所以这张图应该叫做「**调音部位图**」。
@@ -33,7 +34,7 @@
 
 <p align="center">
   <img src="illusts/music_and_noise.jpg" alt="music_and_noise">
-  <br><em style="color: gray">波形图：a) 乐音；b) 噪音</em>
+  <br><em>波形图：a) 乐音；b) 噪音</em>
 </p>
 
 [上一小节](starting_from_english.md) | [返回目录](../README.md) | [下一小节](ipa.md)
