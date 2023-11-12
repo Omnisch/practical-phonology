@@ -21,7 +21,7 @@
 
 ---
 
-~~上一小节~~ | [返回目录](../README.md) | [下一小节](consonants_and_vowels.md)
+~~上一小节~~ | [返回目录](../README.md) | [下一小节](consonants-and-vowels.md)
 
 ## 扩展
 
@@ -43,7 +43,7 @@
 
 ---
 
-~~上一小节~~ | [返回目录](../README.md) | [下一小节](consonants_and_vowels.md)
+~~上一小节~~ | [返回目录](../README.md) | [下一小节](consonants-and-vowels.md)
 
 [^1]: 实际上，`audimus`不止两个含义，它同时表示了陈述语气、第一人称复数、现在时和「听」之意。
 [^2]: 因纽特人就是北极附近的原住民。

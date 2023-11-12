@@ -53,6 +53,6 @@
 
 - 接下来我们就来系统地看一看辅音元音到底都有哪些的，请点击“下一小节”……
 
-[上一小节](starting_from_english.md) | [返回目录](../README.md) | [下一小节](ipa.md)
+[上一小节](starting-from-english.md) | [返回目录](../README.md) | [下一小节](ipa.md)
 
 [^1]: 台湾、日本等地将「子音」「母音」的说法作为规范。

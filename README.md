@@ -7,8 +7,8 @@
 ## 目录
 
 - 舌头做错了什么
-  - [从英语说起](contents/starting_from_english.md)
-  - [辅音？元音？](contents/consonants_and_vowels.md)
+  - [从英语说起](contents/starting-from-english.md)
+  - [辅音？元音？](contents/consonants-and-vowels.md)
   - [音标远不止 48 个](contents/ipa.md)
 
 - 官话之上：普通话
@@ -36,7 +36,7 @@
 - 又老又新：日本语
   - 真的只有五十音吗？
   - 音读与训读
-  - [从普通话推出音读](contents/pth_to_onyomi.md)
+  - [从普通话推出音读](contents/pth-to-onyomi.md)
   - 从各方言推出音读
   - 从音读推出汉字声韵
 
