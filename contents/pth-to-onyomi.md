@@ -9,12 +9,12 @@
 - 关于声母总体的对应关系，我们先放两张表格。
 
 <p align="center">
-  <img src="illusts/mc-to-goon.png" alt="middle-chinese-to-goon">
+  <img src="illusts/mc-to-goon.png" alt="middle-chinese-to-goon" width="600px" height="400px">
   <br><em>吴音对应中古三十八声母</em>
 </p>
 
 <p align="center">
-  <img src="illusts/mc-to-kanon.png" alt="middle-chinese-to-goon">
+  <img src="illusts/mc-to-kanon.png" alt="middle-chinese-to-kanon" width="600px" height="400px">
   <br><em>汉音对应中古三十八声母<br>（图源 polyhedron 中古汉语语音教程）</em>
 </p>
 
@@ -63,7 +63,7 @@
 - 刚才说到，普通话的后鼻音字，到了音读里全都变成了长音。不知你有没有发现举的例子中，「鳴」这个字在吴音和汉音中的读法很不一样，一个是拗音，一个是直音。
 
 - 没错，这也是一条基本普适的规律：普通话韵母为`ing`的字，吴音是拗长音，而汉音是直长音。
-  > 例外：「行」等字，吴音ぎょう，汉音こう。究其原因，在于梗二开见系的字音演变到普通话的路上增生了一个介音，也就是说它们本不应是 ing 韵，而应是 eng 韵。[延伸阅读：“粳”字的读音]
+  > 例外：「行」等字，吴音ぎょう，汉音こう。究其原因，在于梗二开见系的字音演变到普通话的路上增生了一个介音，也就是说它们本不应是`ing`韵，而应是`eng`韵。[延伸阅读：“粳”字的读音]
 
   |汉字|日语吴音|日语汉音|吴音罗马字|汉音罗马字|
   |---|---|---|---|---|
