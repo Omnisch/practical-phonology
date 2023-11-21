@@ -15,7 +15,9 @@
 
 <p align="center">
   <img src="illusts/mc-to-kanon.png" alt="middle-chinese-to-kanon" width="600px" height="440px">
-  <br><em>汉音对应中古三十八声母<br>（图源 polyhedron 中古汉语语音教程）</em>
+  <br><em>汉音对应中古三十八声母
+    <br><a href="https://www.bilibili.com/video/BV1ks411a7hh">（图源 polyhedron 中古汉语语音教程）</a>
+  </em>
 </p>
 
 - 如果你已经通过中古汉语那一章了解了中古汉语语音的相关知识，那么这两张表可谓再清晰不过了。当然，不管你读没读过，我都要解释一下这两张表的。
