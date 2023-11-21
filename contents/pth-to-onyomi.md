@@ -9,12 +9,12 @@
 - 关于声母总体的对应关系，我们先放两张表格。
 
 <p align="center">
-  <img src="illusts/mc-to-goon.png" alt="middle-chinese-to-goon" width="600px" height="400px">
+  <img src="illusts/mc-to-goon.png" alt="middle-chinese-to-goon" width="600px" height="440px">
   <br><em>吴音对应中古三十八声母</em>
 </p>
 
 <p align="center">
-  <img src="illusts/mc-to-kanon.png" alt="middle-chinese-to-kanon" width="600px" height="400px">
+  <img src="illusts/mc-to-kanon.png" alt="middle-chinese-to-kanon" width="600px" height="440px">
   <br><em>汉音对应中古三十八声母<br>（图源 polyhedron 中古汉语语音教程）</em>
 </p>
 
