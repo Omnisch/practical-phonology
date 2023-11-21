@@ -111,4 +111,8 @@
   |成|**じ**ょう|**せ**い|**j**you|**s**ei|
   |才|**ざ**い|**さ**い|**z**ai|**s**ai|
 
+---
+
+上一小节 | [返回目录](../README.md) | 下一小节
+
 [延伸阅读：“粳”字的读音]: https://mp.weixin.qq.com/s?__biz=MzA3OTI3MjEzNg==&mid=2650872373&idx=4&sn=c898d708d734f632a4bf4694bda31b6b
