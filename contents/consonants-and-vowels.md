@@ -7,7 +7,7 @@
 - 在说明辅音元音的概念前，要先讲一讲发音部位。请注意，「发音」和「发声」看起来很相似，但它们是两个不同领域的词。「发声」是声乐领域会用到的词；「**发音**」才是语音学的词。或许你曾见过那个发音部位的图示，比如这个↓
 
 <p align="center">
-  <img src="illusts/articulatory-organs.jpg" alt="articulatory_organs">
+  <img src="illusts/articulatory-organs.jpg" alt="articulatory organs">
   <br><em>调音部位图</em>
 </p>
 
@@ -37,7 +37,7 @@
 - 发辅音时，上面提到的调音部位总会有至少一处在阻碍着气流呼出；而发元音时，调音部位全部让道，使气流能从肺部不受阻碍地顺畅呼出。这里的“阻碍”包括阻塞、震动或摩擦气流等。那么这种“阻碍”到底会影响什么呢？如果把辅音元音分别录音，然后放大观察它们的波形，会发现元音是比较规则的波，能明显看出其周期，这一点跟“乐音”很像；而许多辅音不规则，无法看出周期，这一点跟“噪音”很像。很显而易见对吧？毕竟开嗓子都用“啊”“喔”，而模拟噪波都用“嘶”“滋”。
 
 <p align="center">
-  <img src="illusts/music-and-noise.jpg" alt="music_and_noise">
+  <img src="illusts/music-and-noise.jpg" alt="music and noise">
   <br><em>波形图：a) 乐音；b) 噪音</em>
 </p>
 
