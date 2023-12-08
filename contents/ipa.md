@@ -1,6 +1,6 @@
 # 音标远不止 48 个
 
-> 注意：本页面正在施工，内容尚未完善。
+![UNDER CONSTRUCTION](https://placehold.co/160x20/fd4/000.png?text=UNDER%20CONSTRUCTION) `本页面正在施工，内容尚未完善`
 
 ## 音标不是英语特有的吗？
 
