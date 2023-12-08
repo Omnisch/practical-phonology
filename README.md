@@ -1,7 +1,6 @@
 # 大话音韵：实用音韵学入门
 
-![BETA](https://placehold.co/200x30/27f/fff.png?text=BETA)
-
+![BETA](https://placehold.co/200x30/27f/fff.png?text=BETA)\
 `本页面为测试版，内容随时改动`
 
 - 本栏目为 Omnisch 个人编纂的实用音韵学手册，旨在传授「零基础[^1]也能理解，且能应用于日常生活的音韵学、语言学知识」。
