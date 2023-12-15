@@ -9,7 +9,7 @@
 
 - 除了 DJ 音标，当然还有**国际音标**，这就不是为某种特定的语言定做的了。此外，早在国际音标诞生之前，也有过许多次创造记录音素的符号之尝试。比如1867年，发明电话的贝尔，他的父亲发明的「**可视言语**」（Visible Speech），各符号表示了发音器官在发音时的位置，旨在帮助聋人学习、改善发音。据说这套符号非常精准，甚至能还原出不同地区的口音。
 
-<p align="center">
+<p style="text-align: center">
   <img src="illusts/visible-speech.jpg" alt="visible speech" width="500" height="800">
   <br><em>可视言语表</em>
 </p>
